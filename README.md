@@ -1,6 +1,6 @@
 # 生成加减法算式(word)文件
 
-依赖phoword
+依赖phpword
 
 git clone https://github.com/caty/xiaoxue-test.git
 
