@@ -2,7 +2,7 @@
 
 依赖phoword
 
-git clone caty/xiaoxu-test
+git clone https://github.com/caty/xiaoxue-test.git
 
 composer install
 
